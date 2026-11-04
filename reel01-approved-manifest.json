@@ -1,0 +1,67 @@
+{
+  "duration": 60,
+  "scenes": [
+    {
+      "start": 0,
+      "end": 5,
+      "approved_image": "exec-cb4f42ae-b24f-437f-ab7a-748151bd0839.png"
+    },
+    {
+      "start": 5,
+      "end": 10,
+      "approved_image": "exec-677b79a1-43f6-4e69-b948-c32a5b925117.png"
+    },
+    {
+      "start": 10,
+      "end": 15,
+      "approved_image": "exec-0d5f5260-53b4-4344-8880-9ec6daa2bcea.png"
+    },
+    {
+      "start": 15,
+      "end": 20,
+      "approved_image": "exec-8ab3bbc1-7c73-4918-9af0-ce8c0dc3f237.png"
+    },
+    {
+      "start": 20,
+      "end": 25,
+      "approved_image": "exec-ddae1c15-3a6a-47c3-a5e2-d607d90f078f.png"
+    },
+    {
+      "start": 25,
+      "end": 30,
+      "approved_image": "exec-f07a1866-d852-48f9-9ddb-f51b598a0868.png"
+    },
+    {
+      "start": 30,
+      "end": 35,
+      "approved_image": "exec-9da2271e-4857-4bf8-98e3-b6d849e1915c.png"
+    },
+    {
+      "start": 35,
+      "end": 40,
+      "approved_image": "exec-9875e7f8-f1e7-4f60-842e-2e35ab46d120.png"
+    },
+    {
+      "start": 40,
+      "end": 45,
+      "approved_image": "exec-0a141449-d277-4793-84c3-77a58964cee3.png"
+    },
+    {
+      "start": 45,
+      "end": 50,
+      "approved_image": "exec-c031852f-0b77-48a6-9aa7-cddbf280998b.png"
+    },
+    {
+      "start": 50,
+      "end": 55,
+      "approved_image": "exec-18bc8a60-6bb3-4aa1-953c-e0c38273907a.png"
+    },
+    {
+      "start": 55,
+      "end": 60,
+      "approved_image": "exec-4c2da1bd-76d4-4913-a96d-22331c2377f4.png"
+    }
+  ],
+  "motion": "Only three words at35–40s, no camera movement",
+  "audio": "silent; voice to be added by user"
+}
